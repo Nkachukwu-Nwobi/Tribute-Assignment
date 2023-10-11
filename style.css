@@ -1,0 +1,68 @@
+
+/* container tag of the body element */
+.container{
+    background-image: linear-gradient(to right, bisque,rgb(82, 80, 80));
+    margin: auto;
+}
+
+/* Header section */
+header{
+    text-align: center;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Section 1 */
+.section1 p{
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    font-size: 25px;
+    color: black;
+    text-align: justify;
+}
+
+.section1 .image1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    height: 650px;
+
+}
+
+/* section 2 */
+
+.section2{
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    font-size: 25px;
+    color: black;
+}
+
+/*  section 3*/
+
+.section3{
+    background-image: url(https://cdn.smehost.net/michaeljacksoncom-uslegacyprod/wp-content/uploads/2021/02/21Feb4_MJ_900px.jpg);
+    
+    background-size: cover;
+    height: 700px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+    width: 75%;
+    
+}
+.section3 p{
+    font-size: 40px;
+    color: burlywood;
+    padding-top: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+footer{
+    height: 50px;
+}
